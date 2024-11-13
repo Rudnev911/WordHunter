@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690243136820",
+    "project_id": "wordhunter-1ef4b",
+    "storage_bucket": "wordhunter-1ef4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690243136820:android:4b6531bb579b9534e1c961",
+        "android_client_info": {
+          "package_name": "com.example.wordhunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18pT5ZQC2gDWsvqWFUkU1cNR3PlYe2j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
